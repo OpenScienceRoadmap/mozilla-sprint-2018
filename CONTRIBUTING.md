@@ -11,3 +11,7 @@ Prerequisites:
 
 - Familiarity with [pull requests](https://help.github.com/articles/using-pull-requests) and [issues](https://guides.github.com/features/issues/).
 - Knowledge of [Markdown](https://help.github.com/articles/markdown-basics/) for editing `.md` documents.
+
+Open issues:
+
+- Please see [here](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues) for issues we plan to work on during the MozSprint.
