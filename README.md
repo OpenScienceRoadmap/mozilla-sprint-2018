@@ -33,6 +33,8 @@ We are using [labels](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/
 - [Good first issue](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22): with this issue, we are trying to get an overview of projects that participate in this Mozsprint and that are part of the open science tooling landscape.
 - most of the issues have been tagged with the [mozsprint](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint) label that we are using for tickets specific to the sprint 
   - issues not tagged this way tend to be about the [Joint Roadmap for Open Science Tools](http://jrost.org) initiative more broadly or on a longer term
+- most of the issues have also been tagged with [help wanted](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) because that is how Mozsprint projects are expected to highlight issues where help from project-external contributors is particularly welcome.
+  - for issues not tagged this way, help is still welcome, but the tag helps prioritize a bit
 - most issues have some additional labels:
   - [Review](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3AReview): for issues focused on reviewing what is already there, so as to avoid accidental re-inventions of the wheel, and facilitate intentional collaboration
   - [Curate](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3ACurate): when existing information needs to be indexed, updated, highlighted, restructured, converted or otherwise curated 
