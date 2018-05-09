@@ -29,7 +29,9 @@ Contributions are welcome from individuals and groups &mdash; physically co-loca
 
 ## FAQ
 
-If these activities lead to questions or insights that may be of interest to the broader open science community and beyond this sprint, they should probably go to [Ask Open Science](https://ask-open-science.org/), as per [issue 6](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues/6).
+For questions that need attention prior to or during the sprint, please use any of the above channels.
+
+If the sprint activities lead to questions or insights that may be of interest to the broader open science community and beyond this sprint, they should probably go to [Ask Open Science](https://ask-open-science.org/), as per [issue 6](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues/6).
 
 
 # Timing
