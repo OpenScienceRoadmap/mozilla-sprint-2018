@@ -12,8 +12,26 @@ Stonehenge is an example where pieces from different sources had been integrated
 
 # Coordination
 
-We will have a [Zoom channel](https://zoom.us/j/944190942) and the [#opensciroadmap](https://webchat.freenode.net/?channels=#opensciroadmap) channel on IRC available throughout the sprint. We will also be monitoring the [@OpenSciRoadmap](https://twitter.com/OpenSciRoadmap) handle and the [#OpenSciRoadmap](https://twitter.com/hashtag/opensciroadmap?src=hash) hashtag on Twitter, [along with related handles and hashtags](https://twitter.com/search?f=tweets&vertical=default&q=OpenSciRoadmap%20OR%20openscience).
+## Channels
+
+We will have a [Zoom channel](https://zoom.us/j/944190942) and the [#opensciroadmap](https://webchat.freenode.net/?channels=#opensciroadmap) channel on IRC available throughout the sprint. We will also be monitoring the [@OpenSciRoadmap](https://twitter.com/OpenSciRoadmap) handle and the [#OpenSciRoadmap](https://twitter.com/hashtag/opensciroadmap?src=hash) hashtag on Twitter, [along with related handles and hashtags](https://twitter.com/search?f=tweets&vertical=default&q=OpenSciRoadmap%20OR%20openscience%20OR%20mozsprint).
+
+
+## Activities
 
 We expect the bulk of the activities during the sprint to result in modifications to [this GitHub repo](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018) and [its issue tracker](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues), to the [repo](https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io) and [issue tracker](https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/issues) for the [JROST website](http://jrost.org) and (with pointers from our respective issues) to issue trackers and other fora used by projects that form part of the open science landscape, particularly those that participate in the current Mozsprint or that participated in past ones.
 
+
+## Collaboration
+
+Contributions are welcome from individuals and groups &mdash; physically co-located or distributed, formally established or not &mdash; and we encourage participants to use the above channels to coordinate if, when and how they are working on particular tasks.
+
+
+## FAQ
+
 If these activities lead to questions or insights that may be of interest to the broader open science community and beyond this sprint, they should probably go to [Ask Open Science](https://ask-open-science.org/), as per [issue 6](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues/6).
+
+
+# Timing
+
+The default for participating in Mozsprint activities is 9am-5pm in your time zone. We encourage you to follow that for our project as well, and we will try to be available across multiple time zones to facilitate remote interactions. Our core time zone for the sprint will be US Eastern Daylight Saving Time ([UTC-4](https://en.wikipedia.org/wiki/UTC%E2%88%9204:00)).
