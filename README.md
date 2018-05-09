@@ -12,6 +12,6 @@ Stonehenge is an example where pieces from different sources had been integrated
 
 # Coordination
 
-We will have a [Zoom channel](https://zoom.us/j/944190942) available throughout the sprint. We're also setting up an IRC channel (probably [#opensciroadmap](https://webchat.freenode.net/?channels=#opensciroadmap)), and we will be [monitoring](https://twitter.com/search?f=tweets&vertical=default&q=OpenSciRoadmap) the [@OpenSciRoadmap](https://twitter.com/OpenSciRoadmap) handle and the [#OpenSciRoadmap](https://twitter.com/hashtag/opensciroadmap?src=hash) hashtag on Twitter.
+We will have a [Zoom channel](https://zoom.us/j/944190942) and the [#opensciroadmap](https://webchat.freenode.net/?channels=#opensciroadmap) channel on IRC available throughout the sprint. We will also be [monitoring](https://twitter.com/search?f=tweets&vertical=default&q=OpenSciRoadmap) the [@OpenSciRoadmap](https://twitter.com/OpenSciRoadmap) handle and the [#OpenSciRoadmap](https://twitter.com/hashtag/opensciroadmap?src=hash) hashtag on Twitter.
 
 We expect the bulk of the activities during the sprint to result in modifications to [this GitHub repo](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018) and [its issue tracker](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues) as well as to the [repo](https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io) and [issue tracker](https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/issues) for the [JROST website](http://jrost.org).
