@@ -41,6 +41,7 @@ We are using [labels](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/
   - [Create](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3ACreate): when something needs to be created, be it code, documentation, communication, visualization or whatever seems necessary or fruitful
   - [question](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion): if anything needs discussion or other forms of input from others
 - some issues might be about other things, e.g.
+  - [logo](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3Alogo): for activities related to design a JROST logo
   - [events](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3Aevents): for upcoming activites after this sprint
 
 
