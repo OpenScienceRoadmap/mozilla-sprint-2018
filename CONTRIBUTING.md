@@ -15,3 +15,5 @@ Prerequisites:
 Open issues:
 
 - Please see [here](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues) for issues we plan to work on during the [MozSprint 2018](https://foundation.mozilla.org/opportunity/global-sprint/).
+
+For more details, see the [Coordination](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018#coordination) section in our README.
