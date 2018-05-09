@@ -14,7 +14,7 @@ Stonehenge is an example where pieces from different sources had been integrated
 
 ## Channels
 
-We will have a [Zoom channel](https://zoom.us/j/944190942) and the [#opensciroadmap](https://webchat.freenode.net/?channels=#opensciroadmap) channel on IRC available throughout the sprint. We will also be monitoring the [@OpenSciRoadmap](https://twitter.com/OpenSciRoadmap) handle and the [#OpenSciRoadmap](https://twitter.com/hashtag/opensciroadmap?src=hash) hashtag on Twitter, [along with related handles and hashtags](https://twitter.com/search?f=tweets&vertical=default&q=OpenSciRoadmap%20OR%20openscience%20OR%20mozsprint).
+We will have a [Zoom channel](https://zoom.us/j/944190942) and the [#opensciroadmap](https://webchat.freenode.net/?channels=#opensciroadmap) channel on IRC available throughout the sprint. We will also be monitoring the [@OpenSciRoadmap](https://twitter.com/OpenSciRoadmap) handle and the [#OpenSciRoadmap](https://twitter.com/hashtag/opensciroadmap?src=hash) hashtag on Twitter, [along with related handles and hashtags](https://twitter.com/search?f=tweets&vertical=default&q=OpenSciRoadmap%20OR%20openscience%20OR%20openresearch%20OR%20mozsprint%20OR%20TogetherScienceCan).
 
 
 ## Activities
