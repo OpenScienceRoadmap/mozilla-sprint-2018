@@ -27,6 +27,21 @@ We expect the bulk of the activities during the sprint to result in modification
 Contributions are welcome from individuals and groups &mdash; physically co-located or distributed, formally established or not &mdash; and we encourage participants to use the above channels to coordinate if, when and how they are working on particular tasks.
 
 
+## Getting started
+
+We are using labels to tag the issues in this repo: 
+- [Good first issue](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22): with this issue, we are trying to get an overview of projects that participate in this Mozsprint and that are part of the open science tooling landscape.
+- most of the issues have been tagged with the [mozsprint](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint) label that we are using for tickets specific to the sprint 
+  - issues not tagged this way tend to be about the Joint Roadmap for Open Science Tools initiative more broadly or on a longer term
+- most issues have some additional labels:
+  - [Review](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3AReview): for issues focused on reviewing what is already there, so as to avoid accidental re-inventions of the wheel, and facilitate intentional collaboration
+  - [Curate](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3ACurate): when existing information needs to be indexed, updated, highlighted, restructured, converted or otherwise curated 
+  - [Create](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3ACreate): when something needs to be created, be it code, documentation, communication, visualization or whatever seems necessary or fruitful
+  - [question](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion): if anything needs discussion or other forms of input from others
+- some issues might be about other things, e.g.
+  - [events](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3Aevents): for upcoming activites after this sprint
+
+
 ## FAQ
 
 For questions that need attention prior to or during the sprint, please use any of the above channels.
