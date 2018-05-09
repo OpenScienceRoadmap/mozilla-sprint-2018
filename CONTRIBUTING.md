@@ -1,9 +1,11 @@
 # Request for contributions
 
 Please contribute to this repository if any of the following is true:
-- You have expertise in community development, communication, or education
+- You are a user or developer of tools or other infrastructure for open science
 - You want open research communities to be more collaborative and inclusive
+- You have expertise in community development, communication, or education
 - You want to help lower the burden to first time contributors
+- You want to explore the open science landscape on your own or with others
 
 # How to contribute
 
