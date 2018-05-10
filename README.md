@@ -17,6 +17,14 @@ Stonehenge is an example where pieces from different sources had been integrated
 We will have a [Zoom channel](https://zoom.us/j/944190942) and the [#opensciroadmap](https://webchat.freenode.net/?channels=#opensciroadmap) channel on IRC available throughout the sprint. We will also be monitoring the [@OpenSciRoadmap](https://twitter.com/OpenSciRoadmap) handle and the [#OpenSciRoadmap](https://twitter.com/hashtag/opensciroadmap?src=hash) hashtag on Twitter, [along with related handles and hashtags](https://twitter.com/search?f=tweets&vertical=default&q=OpenSciRoadmap%20OR%20openscience%20OR%20openresearch%20OR%20mozsprint%20OR%20TogetherScienceCan).
 
 
+## Stand-up Meetings
+
+In addition to ongoing communication, participants will gather for short stand-up meetings three times per day live in the [Zoom channel](https://zoom.us/j/944190942) during the sprint on **Thu 10 and Fri 11 May 2018**. Join us there, or on Twitter or IRC to ask and answer questions, talk through ideas, and report on work:
+* 9-9:30am EDT (UTC -4)
+* 12-12:30pm EDT (UTC -4)
+* 16-16:30am EDT (UTC -4)
+
+
 ## Activities
 
 We expect the bulk of the activities during the sprint to result in modifications to [this GitHub repo](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018) and [its issue tracker](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues), to the [repo](https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io) and [issue tracker](https://github.com/OpenScienceRoadmap/OpenScienceRoadmap.github.io/issues) for the [JROST website](http://jrost.org) and (with pointers from our respective issues) to issue trackers and other fora used by projects that form part of the open science landscape, particularly those that participate in the current Mozsprint or that participated in past ones.
