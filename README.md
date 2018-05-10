@@ -30,7 +30,8 @@ Contributions are welcome from individuals and groups &mdash; physically co-loca
 ## Getting started
 
 We are using [labels](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/labels) to tag the [issues in this repo](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues): 
-- [Good first issue](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22): with this issue, we are trying to get an overview of projects that participate in this Mozsprint and that are part of the open science tooling landscape.
+- [Welcome](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/labels/welcome): A place where we can share a few words about ourselves and our background or expectations regarding the project.
+- [Good first issue](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22): these issues provide ways to familiarize yourself with this project, its contributors and the ecosystem around it
 - most of the issues have been tagged with the [mozsprint](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint) label that we are using for tickets specific to the sprint 
   - issues not tagged this way tend to be about the [Joint Roadmap for Open Science Tools](http://jrost.org) initiative more broadly or on a longer term
 - most of the issues have also been tagged with [help wanted](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) because that is how Mozsprint projects are expected to highlight issues where help from project-external contributors is particularly welcome.
