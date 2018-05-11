@@ -1,0 +1,12 @@
+Tool,Ability
+Hypothes.is,OAuth
+Hypothes.is,ORCID
+OSF,S3
+OSF,Hypothes.is
+OSF,DropBox
+OSF,OAuth
+OSF,ORCID
+OSF,JASP
+OSF,Zotero
+Jupyter,OAuth
+Galaxy,Jupyter
