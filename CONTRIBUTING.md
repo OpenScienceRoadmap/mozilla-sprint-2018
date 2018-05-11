@@ -1,3 +1,5 @@
+This document describes contributing to the work organized here in this repository. If you are interested in joining the Joint Roadmap for Open Science Tools formally as an individual or organization, please [visit the JROST website](http://jrost.org/join).
+
 # Request for contributions
 
 Please contribute to this repository if any of the following is true:
