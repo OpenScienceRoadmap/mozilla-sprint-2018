@@ -1,3 +1,11 @@
+# Notice
+
+This document outlined how to contribute to the Joint Roadmap during the May 2018 Mozilla Global Sprint, which is now over and materials generated during the sprint have moved.
+
+Learn more about [making ongoing contributions to the Joint Roadmap](https://github.com/OpenScienceRoadmap/jrost) and please continue any work on or reference to materials generated during the sprint in their new locations: [roadmap](https://github.com/OpenScienceRoadmap/roadmap/) or [ecosystem](https://github.com/OpenScienceRoadmap/ecosystem/).
+
+---
+
 # Welcome
 
 This repo is a [contribution](https://github.com/mozilla/global-sprint/issues/285) to the [Mozilla Global Sprint 2018](https://foundation.mozilla.org/opportunity/global-sprint/) and focused on brainstorming for the [Joint Roadmap for Open Science Tools](http://jrost.org) (JROST).
