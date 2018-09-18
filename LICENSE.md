@@ -1,3 +1,11 @@
+# Notice
+
+The license outlined below pertained to contributions to the Joint Roadmap during the May 2018 Mozilla Global Sprint, which is now over and materials generated during the sprint have moved. These same license practices were adopted by the Joint Roadmap overall, as reflected in [the community's licensing statement](https://jrost.org/license).
+
+Learn more about [making ongoing contributions to the Joint Roadmap](https://github.com/OpenScienceRoadmap/jrost) and please continue any work on or reference to materials generated during the sprint in their new locations: [roadmap](https://github.com/OpenScienceRoadmap/roadmap/) or [ecosystem](https://github.com/OpenScienceRoadmap/ecosystem/).
+
+---
+
 # About
 
 This file documents the use and reuse rights of outputs produced in the framework of this event. To document problems related to licensing of such outputs or of external resources (particularly when they block or limit reuse), we encourage participants to [open an issue](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues/new) for that and to use the [licensing](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/labels/licensing) label, so that we can track such cases.
