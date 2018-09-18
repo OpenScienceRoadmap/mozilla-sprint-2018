@@ -1,3 +1,5 @@
+This document outlined how to contribute to the Joint Roadmap during the May 2018 Mozilla Global Sprint, which is now over and materials generated during the sprint have moved. Learn more about [making ongoing contributions to the Joint Roadmap](https://github.com/OpenScienceRoadmap/jrost) and please continue any work on or reference to materials generated during the sprint in their new locations: [roadmap](https://github.com/OpenScienceRoadmap/roadmap/) or [ecosystem](https://github.com/OpenScienceRoadmap/ecosystem/).
+
 This document describes contributing to the work organized here in this repository. If you are interested in joining the Joint Roadmap for Open Science Tools formally as an individual or organization, please [visit the JROST website](http://jrost.org/join).
 
 # Request for contributions
